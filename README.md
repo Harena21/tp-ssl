@@ -1,7 +1,7 @@
 # TP : apprentissage de représentations par des approches auto-supervisées
 
 TP Image du M2 Informatique, parcours VMI, Université Paris Cité.
-Auteur : Lucka Harena.
+Auteur : Lucka Harena. Compte rendu : [`TP_ssl.pdf`](TP_ssl.pdf).
 
 Le TP repose sur les démos du cours CS294-158 (UC Berkeley), reprises dans le dépôt
 [ckurtz/cs294-158-ssl](https://github.com/ckurtz/cs294-158-ssl). Ce dépôt contient :
