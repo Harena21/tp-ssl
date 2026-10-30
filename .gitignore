@@ -1,0 +1,11 @@
+# Données et modèles téléchargés par le notebook (trop gros pour GitHub)
+data/
+results/
+data.zip
+results.zip
+cs294-158-ssl/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

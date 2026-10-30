@@ -1,0 +1,9 @@
+methode,dataset,classifieur,train_top1,train_top5,test_top1,test_top5
+context_encoder,cifar10,reentraine,56.6,93.9,48.4,92.0
+context_encoder,stl10,reentraine,94.0,99.9,46.4,91.4
+rotation,cifar10,reentraine,81.5,98.5,76.8,98.3
+rotation,stl10,reentraine,100.0,100.0,73.5,98.1
+simclr,cifar10,reentraine,91.6,99.8,89.9,99.7
+simclr,stl10,reentraine,84.6,99.7,80.5,99.0
+relative_position,cifar10,reentraine,78.9,98.1,72.2,97.5
+relative_position,stl10,reentraine,100.0,100.0,69.5,97.8
