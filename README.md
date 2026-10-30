@@ -20,7 +20,7 @@ Le TP repose sur les démos du cours CS294-158 (UC Berkeley), reprises dans le d
 | `src/position_relative.py` | Tâche prétexte de position relative et son entraînement (consigne 5) |
 | `resultats/comparaison.csv` | Tableau des résultats |
 | `resultats/comparaison.png` | Graphique des résultats |
-| `compte_rendu.pdf` | Compte rendu du TP |
+| `TP_ssl.pdf` | Compte rendu du TP |
 
 Les fichiers de `src/` reprennent le code des cellules correspondantes du notebook.
 
